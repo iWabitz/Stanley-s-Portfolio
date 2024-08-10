@@ -1,0 +1,3 @@
+cd C:\Users\stanl\OneDrive\Desktop\Streamlit_Web
+streamlit run Intro_to_Streamlit_Day_1.py
+streamlit run Fun_App.py 
