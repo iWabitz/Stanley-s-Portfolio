@@ -6,9 +6,9 @@ from src.interactive_app_4 import interactive_app
 from src.run_app_5 import run_app
 from src.hold_num_6 import hold_num
 from src.hands_on_7 import hands_on
-from src.wrap_up_8 import wrap_up
 from src.to_do_9 import to_do
 from src.quiz_10 import quiz
+from src.wrap_up_8 import wrap_up
 import streamlit as st
 
 def main():
@@ -26,9 +26,9 @@ def main():
         ":running:. Running the App",
         ":five:. Capturing Variables",
         ":raised_hands:. Hands on activity",
-        ":package:. Wrap up",
         ":nine:. To-Do List",
         ":skull:. Simple Quiz",
+        ":package:. Wrap up",
         
         ]
 
