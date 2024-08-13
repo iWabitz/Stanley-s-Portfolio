@@ -19,5 +19,4 @@ st.caption("Example 5")
     st.write(f"Hello {username}, you are {age} years old.")
     st.subheader("3.3 Display Image")
     st.write("You can display images like this:")
-    st.image("https://media.discordapp.net/attachments/1238937989200089169/1258999930165526528/image.png?ex=66969cce&is=66954b4e&hm=0b8de778a231a19b0b24a188ae3cbb201f41028dfbcfd37482af0f68f27a5a86&=&format=webp&quality=lossless&width=396&height=622")
-
+    st.image("https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Patrick_Star.svg/220px-Patrick_Star.svg.png")

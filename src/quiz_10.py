@@ -1,10 +1,6 @@
 import streamlit as st
-    
-
-
-
-
 def quiz():
+
     st.header(":skull:. Simple Quiz")
     if ('current_question' not in st.session_state):
         st.session_state.current_question = 0
