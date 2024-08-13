@@ -52,7 +52,7 @@ def main():
             hands_on()
         elif selected_streamlit == ':package:. Wrap up':
             wrap_up()
-        elif selected_streamlit == ':nine:. To-Do List':
+        elif selected_streamlit == ':seven:. To-Do List':
             to_do()
         elif selected_streamlit == ':skull:. Simple Quiz':
             quiz()
