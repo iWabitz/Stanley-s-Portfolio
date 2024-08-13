@@ -26,7 +26,7 @@ def main():
         ":running:. Running the App",
         ":five:. Capturing Variables",
         ":raised_hands:. Hands on activity",
-        ":nine:. To-Do List",
+        ":seven:. To-Do List",
         ":skull:. Simple Quiz",
         ":package:. Wrap up",
         
